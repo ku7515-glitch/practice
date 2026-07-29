@@ -1,1 +1,1 @@
-# prectice
+# practice
